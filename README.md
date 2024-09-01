@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kamranhamid293
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Coading
-- 💞️ I’m looking to collaborate on ROR
+- 🌱 I’m currently learning Coding
 - 📫 How to reach me kamranhamid293@yahoo.com
 - 😄 Pronouns: K. Hamid
 - ⚡ Fun fact: Beginner!
